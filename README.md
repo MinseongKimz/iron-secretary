@@ -116,3 +116,13 @@ chmod +x manage_bot.sh
 *   `config.ini`
 *   `src/`
 *   `manage_bot.sh` / `run_bot.bat`
+
+---
+
+## 📷 시연 영상 및 결과 (Demo)
+
+**1. 시연 영상 (Demo Video)**
+[![Demo Video](https://imgur.com/g36Am6o.gif)](https://imgur.com/g36Am6o)
+
+**2. 최종 저장 결과 (Final Result)**
+![Final Result](https://imgur.com/T1kr1aO.png)
